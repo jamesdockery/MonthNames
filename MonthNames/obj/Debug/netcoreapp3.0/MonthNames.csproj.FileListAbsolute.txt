@@ -1,0 +1,11 @@
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\bin\Debug\netcoreapp3.0\MonthNames.exe
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\bin\Debug\netcoreapp3.0\MonthNames.deps.json
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\bin\Debug\netcoreapp3.0\MonthNames.runtimeconfig.json
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\bin\Debug\netcoreapp3.0\MonthNames.runtimeconfig.dev.json
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\bin\Debug\netcoreapp3.0\MonthNames.dll
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\bin\Debug\netcoreapp3.0\MonthNames.pdb
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\obj\Debug\netcoreapp3.0\MonthNames.csprojAssemblyReference.cache
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\obj\Debug\netcoreapp3.0\MonthNames.AssemblyInfoInputs.cache
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\obj\Debug\netcoreapp3.0\MonthNames.AssemblyInfo.cs
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\obj\Debug\netcoreapp3.0\MonthNames.dll
+C:\Users\james\source\cSharpData_Algorithms\MonthNames\MonthNames\obj\Debug\netcoreapp3.0\MonthNames.pdb
